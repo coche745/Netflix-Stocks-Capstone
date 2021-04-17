@@ -21,7 +21,9 @@ The project visualizes the following:
 + A comparison of the Netflix Stock price vs the Dow Jones Industrial Average price in 2017
 Note: We are using the Dow Jones Industrial Average to compare the Netflix stock to the larger stock market.
 ## Setup
-To run this project on your own computer, install it locally using git.
+All you have to do to see the beautiful graphs is click on the netflix_visualizations.ipynb file above and read the code.
+
+If you would like to run this project on your own computer, install it locally using git.
 + git clone https://github.com/coche745/Netflix-Stocks-Capstone
 + You will have to either open the files in jupyter notebook, or in a text editor. However, you must have all the required technologies listed above installed on your computer for it to work. All of these technologies can be installed at once by downloading Anaconda on your computer here https://www.anaconda.com/products/individual
 ## Status
